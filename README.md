@@ -33,7 +33,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+I learned how to code watching youtube and reading books and sometimes when learning to code via code alongs or coding challenges safety nets can exist because you are able to fast forward the video or find a better method based on the instructor design. I appreciated this challenge because it doesn't offer that and equivocal to learning to play an instrument by ear we are learning to code by sight.
 
+While this challenge was for a newbie, I found that responsive design always comes with a degree of difficulty when deciding the right breakpoints and how to make all the elements of the design responsive. I wanted to match the design and in matching the design I did a lot of trial and error with the container and font size. 
 
 ## Author
 
